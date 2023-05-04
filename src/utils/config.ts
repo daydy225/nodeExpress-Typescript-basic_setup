@@ -9,4 +9,4 @@ export const PORT: string = process.env.PORT
 
 export const API_KEY: string = process.env.API_KEY
 
-export SECRET = process.env.SECRET
+export const SECRET = process.env.SECRET
